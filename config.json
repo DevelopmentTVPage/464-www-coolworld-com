@@ -1,0 +1,15 @@
+{
+    "title": "Gallery C",
+    "baseURL": "https:\/\/www.coolworld.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759037",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "coolworld.com"
+    }
+}
